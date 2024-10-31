@@ -1,0 +1,347 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: myCRED for Events Manager Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-31 10:30+0000\n"
+"PO-Revision-Date: 2023-10-31 10:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.2\n"
+"X-Domain: mycred_em"
+
+#: class-mycred-events-manager-pro.php:35 gateway.mycred-checkout-admin.php:25
+#: gateway.mycred-checkout.php:43
+msgid "%plural% Cost"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:693
+#, php-format
+msgid ""
+"Approvals must also be required for all bookings in your <a href=\"%s\">"
+"settings</a> for this to work properly."
+msgstr ""
+
+#: gateway.mycred.php:20
+msgid "Awaiting myCred Checkout Payment"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:717
+msgid "Booking Payments"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:678
+msgid "Bookings are paid using Points only."
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:679
+msgid "Bookings are paid using Real Money or Points."
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:776
+msgid "Button Label"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:692
+msgid ""
+"By default, when someone pays for a booking, it gets automatically approved "
+"once the payment is confirmed. If you would like to manually verify and "
+"approve bookings, tick this box."
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:783
+msgid "Cart & Checkout Cost"
+msgstr ""
+
+#: gateway.mycred-checkout.php:275
+msgid "Discounts"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:223
+#, php-format
+msgid "Duplicate transaction for booking ID: %s"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:27 gateway.mycred-checkout-admin.php:17
+#: gateway.mycred-checkout.php:35
+msgid "Event booking payment for %link_with_title%"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:28 gateway.mycred-checkout-admin.php:18
+#: gateway.mycred-checkout.php:36
+msgid "Event booking refund for %link_with_title%"
+msgstr ""
+
+#: mycred-for-events-manager-pro.php:107
+msgid "Event Payment (Events Manager)"
+msgstr ""
+
+#: mycred-for-events-manager-pro.php:109
+msgid "Event Payment Refund (Events Manager)"
+msgstr ""
+
+#: mycred-for-events-manager-pro.php:108
+msgid "Event Sale (Events Manager)"
+msgstr ""
+
+#: mycred-for-events-manager-pro.php:110
+msgid "Event Sale Refund (Events Manager)"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:705
+msgid "Exchange Rate"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:808
+msgid "Excluded"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:708
+#, php-format
+msgid "How many %s is needed to pay for 1 %s?"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://mycred.me/"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:39 gateway.mycred-checkout-admin.php:29
+#: gateway.mycred-checkout.php:47
+msgid "I'm sorry but you can not pay for these tickets using %_plural%"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:658
+#: gateway.mycred-checkout-admin.php:167 gateway.mycred-checkout.php:129
+#, php-format
+msgid "If you are unsure how to use this gateway, feel free to consult the %s."
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:734
+#: class-mycred-events-manager-pro.php:741
+msgid "Ignored if profit sharing is disabled."
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:801
+msgid "Insufficient Funds"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:786
+msgid "Label for cost in %plural%."
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:759
+msgid "Labels"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:714
+msgid "Log Templates"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:690
+msgid "Manually approve completed transactions?"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:791
+msgid "Messages"
+msgstr ""
+
+#. Author of the plugin
+msgid "myCred"
+msgstr ""
+
+#. Name of the plugin
+msgid "myCRED for Events Manager Pro"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:658
+#: gateway.mycred-checkout-admin.php:167 gateway.mycred-checkout.php:129
+msgid "online documentation"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:699
+msgid "Option to share sales with the event owner. Use zero to disable."
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:797
+msgid ""
+"Optional message to show users when they have successfully paid using points."
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:811
+msgid ""
+"Optional message to show users who are excluded from the selected point type."
+" No HTML allowed."
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:34 gateway.mycred-checkout-admin.php:24
+#: gateway.mycred-checkout.php:42
+msgid "Pay"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:33 gateway.mycred-checkout-admin.php:23
+#: gateway.mycred-checkout.php:41
+msgid "Pay Now"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:32 gateway.mycred-checkout-admin.php:22
+#: gateway.mycred-checkout.php:40
+msgid "Pay using your %_plural% balance"
+msgstr ""
+
+#: emp-mycred-install.php:4 emp-mycred-install.php:7
+msgid "Pay with myCred"
+msgstr ""
+
+#: emp-mycred-install.php:15
+msgid "Pay with myCred Elements"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:212
+msgid "Payment declined. Please try a different payment option."
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:769
+msgid "Payment Header"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:762
+msgid "Payment Link Label"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:724
+msgid "Payment Refunds"
+msgstr ""
+
+#. plugin names and version numbers
+#: mycred-for-events-manager-pro.php:48
+#, php-format
+msgid ""
+"Please make sure you have %1$s version %2$s or greater installed, as this "
+"may prevent %3$s from functioning properly."
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:662
+#: gateway.mycred-checkout-admin.php:172 gateway.mycred-checkout.php:134
+msgid "Point Type"
+msgstr ""
+
+#: gateway.mycred-checkout-admin.php:94
+msgid "Points"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:402
+#: class-mycred-events-manager-pro.php:406 gateway.mycred-checkout-admin.php:93
+msgid "Price"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:731
+msgid "Profit Share Payouts"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:738
+msgid "Profit Share Refunds"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:696
+msgid "Profit Sharing"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:683
+msgid "Refunds"
+msgstr ""
+
+#: gateway.mycred-checkout.php:219
+msgid "Resume Payment"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:657
+#: gateway.mycred-checkout-admin.php:166 gateway.mycred-checkout.php:128
+msgid "Setup"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:772
+msgid "Shown on top of the payment form. No HTML allowed."
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:411 gateway.mycred-checkout-admin.php:98
+msgid "Spaces"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:676
+msgid "Store Currency"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:794
+msgid "Successful Payments"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:38 gateway.mycred-checkout-admin.php:28
+#: gateway.mycred-checkout.php:46
+msgid "Thank you for your payment!"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:779
+msgid "The button label for payments. No HTML allowed."
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:804
+msgid ""
+"The message to show users that can not afford to pay for their order using "
+"points. Can not be empty! No HTML allowed!"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:765
+msgid ""
+"The payment link shows / hides the payment form under \"My Bookings\". No "
+"HTML allowed."
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:686
+msgid ""
+"The percentage of the paid amount to refund if a user cancels their booking "
+"or if a booking is rejected. Use zero for no refunds."
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:671
+#: gateway.mycred-checkout-admin.php:186 gateway.mycred-checkout.php:158
+msgid "The point type to accept as payment."
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin connects myCRED with the Events Manager Pro plugin."
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:25 gateway.mycred-checkout-admin.php:15
+#: gateway.mycred-checkout.php:33
+msgid "Ticket payment %bookingid%"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:26 gateway.mycred-checkout-admin.php:16
+#: gateway.mycred-checkout.php:34
+msgid "Ticket refund %bookingid%"
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:399 gateway.mycred-checkout-admin.php:89
+msgid "Ticket Type"
+msgstr ""
+
+#. plugin names
+#: mycred-for-events-manager-pro.php:50
+#, php-format
+msgid "Until it is updated, %s will remain inactive to prevent further errors."
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:40 gateway.mycred-checkout-admin.php:30
+#: gateway.mycred-checkout.php:48
+msgid "You can not pay using this gateway."
+msgstr ""
+
+#: class-mycred-events-manager-pro.php:358
+msgid "Your Balance"
+msgstr ""
